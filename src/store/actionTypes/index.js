@@ -1,0 +1,5 @@
+const ActionTypes = {
+  PRODUCT_UPDATE: 'PRODUCT_UPDATE',
+  PRODUCT_QUANTITY_UPDATE: 'PRODUCT_QUANTITY_UPDATE',
+}
+export default ActionTypes

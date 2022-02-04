@@ -1,0 +1,18 @@
+const ApiStatusCodes = {
+  SUCCESS_200: 200,
+  SUCCESS_201: 201,
+  SUCCESS_204: 204,
+
+  ERROR_400: 400,
+  ERROR_401: 401,
+  ERROR_403: 403,
+  ERROR_404: 404,
+  ERROR_450: 450,
+
+  ERROR_500: 500,
+  ERROR_501: 501,
+  ERROR_502: 502,
+  ERROR_503: 503,
+  ERROR_504: 504
+}
+export default ApiStatusCodes
